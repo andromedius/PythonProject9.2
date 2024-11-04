@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pythonproject9-2"
+version = "0.1.0"
+description = ""
+authors = ["Belkevich_Andru <andromedius@mail.ru>"]
+readme = "README.md"
+packages = [{include = "pythonproject9"}]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
