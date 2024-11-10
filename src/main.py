@@ -19,3 +19,4 @@ print(clear_names(r'C:\Users\user\PycharmProjects\pythonProject9.2\data\names.tx
 #
 #     for i in cleared_name:
 #         print(i)
+# изменения
